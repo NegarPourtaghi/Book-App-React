@@ -1,0 +1,13 @@
+.SideCard{
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+    margin: 10px 0px;
+    background-color: #7c6ee9;
+    border-radius: 5px;
+}
+
+.SideCard img{
+    width:30px;
+    margin-right:15px ;
+}
